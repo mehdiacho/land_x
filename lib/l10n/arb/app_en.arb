@@ -3,5 +3,13 @@
     "counterAppBarTitle": "Counter",
     "@counterAppBarTitle": {
         "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "pendingTask": "Pending",
+    "@PendingTask": {
+        "description": "Pending Task's Label"
+    },
+    "completedTask": "Completed",
+    "@CompletedTask": {
+        "description": "Completed Task's Label"
     }
 }
